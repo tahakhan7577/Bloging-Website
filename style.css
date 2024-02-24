@@ -6,3 +6,15 @@
     
 }
 h2{text-align: center;}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-text{
+    overflow: auto;
+   
+    max-height: 500px;
+}
+.card-img-top{
+    height: 300px;
+}
